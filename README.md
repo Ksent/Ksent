@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksent&layout=compact&theme=one_dark_pro)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ksent&theme=monokai)
 
 ![Codewars](https://www.codewars.com/users/Ksent/badges/micro)
