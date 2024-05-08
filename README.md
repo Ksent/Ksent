@@ -1,5 +1,11 @@
 ### Hi there 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ksent&theme=monokai)
+## Technology stack
+- HTML, CSS, SCSS, BEM;
+- JavaScript, TypeScript;
+- React, Redux Toolkit;
+- Gulp, Webpack;
+- Git, GitHub.
 
+## Stats
 ![Codewars](https://www.codewars.com/users/Ksent/badges/micro)
